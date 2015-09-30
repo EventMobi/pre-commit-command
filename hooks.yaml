@@ -1,0 +1,5 @@
+-   id: command-js
+    name: command-js
+    entry: bin/command-js
+    language: script
+    files: \.js$
