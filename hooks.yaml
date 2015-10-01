@@ -1,5 +1,5 @@
--   id: command-js
-    name: Run custom command on .js files
-    entry: bin/command-js
+-   id: command
+    name: Run a custom command
+    entry: bin/command
     language: script
-    files: \.js$
+    files: ''
